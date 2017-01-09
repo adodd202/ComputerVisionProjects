@@ -1,4 +1,7 @@
 # ComputerVisionProjects
+
+Coding language: Python, written in Linux virtual machine, sometimes using Jupyter notebook
+
 All 5 coding projects along with some written assignment answers.
 
 Each assignment covers a different aspect of computer vision.
